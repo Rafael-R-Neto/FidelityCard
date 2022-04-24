@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCoLxiqKiXqSToJ+7zel/8l424nVkAyIF4lzVg3Ta4sorVe6bU1EWSDF1/CWe/akOmVQyJzKC1J6/Ydu6wAWCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafael.neto\\source\\repos\\FidelityCard\\FidelityCard.Api\\FidelityCard.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafael.neto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rafael.neto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rafael.neto\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\rafael.neto\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\rafael.neto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\rafael.neto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
